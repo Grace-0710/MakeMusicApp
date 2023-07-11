@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MakeMusic</string>
+    <string name="title_home">Home</string>
+    <string name="title_playlist">MyList</string>
+    <string name="title_notifications">미정</string>
+    <string name="title_settings">Setting</string>
+    <string name="home_top_text">기분대로 말하는대로!\n나만의 노래를 만들어보세요</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_description">Intro</string>
 </resources>
