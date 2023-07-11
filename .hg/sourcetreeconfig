@@ -1,13 +1,13 @@
 autorefresh=1
 savedIncoming=0
 lastUsedView=1
-savedOutgoing=1
+savedOutgoing=2
 showBuildStatus=1
 disablerecursiveoperations=0
-lastCheckedRemotes=2023-03-14 07:49:57 +0000
+lastCheckedRemotes=2023-07-11 06:42:10 +0000
 autorefreshremotes=1
-remoteProjectLink0.remoteName=default
+remoteProjectLink0.remoteName=master
 remoteProjectLink0.username=Grace-0710
 remoteProjectLink0.type=2
 remoteProjectLink0.baseUrl=https://github.com
-remoteProjectLink0.identifier=Grace-0710/MakeMusic
+remoteProjectLink0.identifier=Grace-0710/MakeMusicApp

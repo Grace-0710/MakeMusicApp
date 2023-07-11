@@ -1,1 +1,1 @@
-최초커밋
+gradle groovy -> kts
